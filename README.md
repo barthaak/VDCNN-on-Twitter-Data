@@ -12,7 +12,7 @@ The changes are as follows:
 In the ‘Data’-folder there are three different type of twitter datasets. 
  - The folder ‘twitter_hate_csv’ contains a subset of the tweets used by Wasseem and Hovy (2016) 
  - The folder ‘twitter_semeval_csv’ consists of a subset of tweets used by Nakov et al. (2013) 
- - Finally, the folder ‘twitter_sentiment_csv’ has a subset of tweets used by Go (2009) in ‘Sentiment classification using distant supervision’ 
+ - Finally, the folder ‘twitter_sentiment_csv’ has a subset of tweets used by Go (2009)
 
 
 ### Checkpoints and logs
