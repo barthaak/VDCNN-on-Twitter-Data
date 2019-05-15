@@ -21,7 +21,7 @@ The ‘checkpoints’-folder and ‘logs’-folder are empty initially.
 However, while running the model the ‘checkpoints’-folder will store the weights of the model and the ‘logs’-folder will store the logs to be used by Tensorboard. 
 
 
-References:
+#### References:
 
 Conneau, A., Schwenk, H., Barrault, L., & Lecun, Y. (2016). Very deep convolutional networks for text classification. arXiv preprint arXiv:1606.01781.
 
