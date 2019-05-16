@@ -11,7 +11,7 @@ The changes are as follows:
 
 In the ‘Data’-folder there are three different type of twitter datasets. 
  - The folder ‘twitter_hate_csv’ contains a subset of the tweets used by Wasseem and Hovy (2016).
-   First the corresponding tweet-ids were collected from: https://github.com/zeerakw/hatespeech
+   First the corresponding tweet-ids were collected from: https://github.com/zeerakw/hatespeech.
    Second we use the Twitter API to collect the tweets 
  - The folder ‘twitter_semeval_csv’ consists of a subset of tweets used by Nakov et al. (2013).
    The corresponding tweets were collected from: https://github.com/AnthonyMRios/Sentiment-Classification-Example/tree/master/sentimentData
